@@ -1,0 +1,1 @@
+const offerLink = "https://grandfd.netlify.app/"
